@@ -8,6 +8,7 @@ Kaggle-IEEE-CIS-Fraud-Detection項目的要旨是應用機器學習模型，真�
 
 分數評判: 根據ROC curve between the predicted probability and the observed target。
 
+所應用之方法:
 通過EDA觀察數據，填補缺失值，應用Random OverSampling(Up-Scaling)處理Training Dataset標籤分布不均之問題(Ture: 3.499%, False: 96.5%), 數種 Encoding, Feature Engineering方法, 以XgBoost在調參後所達到之最高分數: 0.910459。
 
 
