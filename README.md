@@ -4,7 +4,7 @@ Kaggle-IEEE-CIS-Fraud-Detection項目的要旨是應用真實生活中來自Vest
 
 這個比賽中所使用的數據十分龐大，為1.25GB(一百萬筆交易數據)。因為數據規模不小，所以使用Google Colab Pro GPU 處理，否則十分耗時且電腦無法消化。
 
-數據來源: Vesta Corporation 與 IEEE-CIS 於 2019年7月在Kaggle舉辦的 Fraud Detection(盜刷偵測)比賽。 https://www.kaggle.com/c/ieee-fraud-detection/overview
+數據來源: Vesta Corporation 與 IEEE-CIS 於 2019年7月在Kaggle舉辦的 Fraud Detection(盜刷偵測)比賽:https://www.kaggle.com/c/ieee-fraud-detection/overview
 
 分數評判: 根據ROC curve between the predicted probability and the observed target。
 
